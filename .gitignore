@@ -1,0 +1,10 @@
+# Copia de la conexión con los datos de Hostinger: nunca se sube (tiene la contraseña)
+config/conexion_hosting.php
+
+# Archivos del sistema y de los editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.zip
